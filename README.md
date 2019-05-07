@@ -4,6 +4,8 @@ This repo shows 2 kinds of set ups we tried with Gradle Enterprise for maven.
 
 # Faulty Setup
 
+The unexpected outcome is **bold**.
+
 | Directory | Command | Is Build Scan sent? |
 |---|---|---|
 | / | bin/entrypoint.sh clean compile -Dscan | Yes |
